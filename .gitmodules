@@ -1,0 +1,6 @@
+[submodule "MooWordsGUI"]
+	path = MooWordsGUI
+	url = https://github.com/bosman1337/MooWordsGUI
+[submodule "MooWordsAPI"]
+	path = MooWordsAPI
+	url = https://github.com/bosman1337/MooWordsAPI
